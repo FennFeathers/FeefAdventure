@@ -1,1 +1,1 @@
-worker: node run.py
+worker: python3 run.py
